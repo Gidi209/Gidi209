@@ -1,4 +1,5 @@
-## Olá! Eu sou o Gideao Maneco 
+## Olá! Eu sou o [Gideao Maneco](https://gidi209.github.io/Maneco-Digital-/portufolio.html)
+
 <a href="https://github.com/Gidi209/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gidi209" />
 </a>
@@ -22,7 +23,9 @@
 Site institucional da [ACAA](https://associaco-acaa.netlify.app/)
 
 Site para um centro de formação [Centro Web](https://gidi209.github.io/CentroWeb-/) 
-  
+
+Site oficial da [Maneco Digital](https://gidi209.github.io/Maneco-Digital-/index.html)
+
 ##
 
 <div> 
